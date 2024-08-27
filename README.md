@@ -1,2 +1,2 @@
 # houseprice 
-banglore house price presiction
+banglore house price prediction
